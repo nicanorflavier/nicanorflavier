@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Nicanor, I am a passionate DevOps Engineer working primarily on AWS, but with Azure and some GCP exposures.
+My name is Nicanor, I am a passionate DevOps Engineer
 
 ## About Me
 I am in love and happy when I am:
